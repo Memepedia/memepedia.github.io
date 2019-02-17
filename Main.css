@@ -56,7 +56,6 @@ p {
 padding-left: 1%;
 font-size: 35px;
 color: white;
-
 }
 
 .sidenav {
@@ -90,6 +89,10 @@ color: white;
   top: 0;
   font-size: 30px;
   padding-left: 28px;
+}
+
+.elmo {
+  width: 35%;
 }
 
 #main {
