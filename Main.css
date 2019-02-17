@@ -7,7 +7,7 @@ body {
 header {
   height: 55px;
   padding-left: 20px;
-  background-color: #0F0F0F;
+  background-color: #0E0E0E;
   overflow: hidden;
   padding-top: 8px;
 }
@@ -27,7 +27,17 @@ p {
   font-size: 20px;
 }
 
+.starttext{
+  text-align: center;
+}
 
+.starttext h1 {
+  font-size: 50px;
+}
+
+.starttext p {
+  font-size: 20px;
+}
 
 .headerimg {
   width: 100%;
@@ -107,17 +117,6 @@ color: white;
 
 footer {
   background-color: #0F0F0F;
-  height: 50px;
-}
-
-footer a{
-  color: blue;
-}
-
-footer p{
-  padding-left: 20px;
-}
-
-footer a:hover{
- color: red;
+  height: 100px;
+  margin-bottom: -100px;
 }
