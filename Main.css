@@ -28,7 +28,6 @@ hr {
   margin-top: 30px;
 }
 
-
 .sticky {
   position: fixed;
   top: 0;
@@ -87,7 +86,7 @@ color: white;
   width: 0;
   position: fixed;
   z-index: 1;
-  top: 0;
+  top: 50px;
   left: 0;
   background-color: #111;
   overflow-x: hidden;
@@ -111,7 +110,7 @@ color: white;
 .sidenav .closebtn {
   position: absolute;
   top: 0;
-  font-size: 30px;
+  font-size: 50px;
   padding-left: 28px;
 }
 
@@ -138,7 +137,7 @@ footer {
 }
 
 footer p {
-  font-size: 1vw;
+  font-size: 20px;
   margin-bottom: 5px;
   margin-top: 5px;
 }
