@@ -12,6 +12,23 @@ header {
   padding-top: 8px;
 }
 
+
+h1{
+  color: #FFFFFF;
+  padding-left: 8px;
+  font-size: 30px;
+  padding-top:0
+  border: 0;
+}
+
+p {
+  color: rgb(255,255,255);
+  padding-left: 8px;
+  font-size: 20px;
+}
+
+
+
 .headerimg {
   width: 100%;
   padding: 0;
@@ -31,25 +48,14 @@ header {
 }
 
 
-h1{
-  color: #FFFFFF;
-  padding-left: 8px;
-  font-size: 30px;
-  padding-top:0
-  border: 0;
-}
-
-p {
-  color: rgb(255,255,255);
-  padding-left: 8px;
-  font-size: 20px;
-}
-
 .img{
  padding-left: 10px;
 }
 
-.homebutton a:hover{
+.homebutton {
+padding-left: 1%;
+font-size: 35px;
+color: white;
 
 }
 
