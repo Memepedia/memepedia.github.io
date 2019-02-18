@@ -18,13 +18,18 @@ header {
 }
 
 h1{
-  color: #FFFFFF;
-  padding-top:0
+  color: #ffffff;
+  padding-top: 0;
   border: 0;
 }
 
+h2{
+  color: #ffffff
+  padding-top:
+}
+
 p {
-  color: rgb(255,255,255);
+  color: #ffffff;
   font-size: 20px;
 }
 
@@ -49,6 +54,9 @@ hr {
   margin-bottom: 5px;
 }
 
+.startcenter {
+  text-align: center;
+}
 
 .starttext h1 {
   font-size: 40px;
