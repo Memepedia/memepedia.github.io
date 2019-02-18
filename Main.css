@@ -36,7 +36,7 @@ hr {
 }
 
 .memeimg img {
-  width: 400px;
+  width: 30%;
 }
 
 .memeimg p {
@@ -116,16 +116,18 @@ color: white;
 }
 
 .elmo {
-  width: 500px;
+  width: 40%;
 }
 
 #main {
   transition: margin-left .5s;
 }
 
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+
+@media screen and (max-width: 1000px) {
+  #main {
+    width: 100%;
+  }
 }
 
 footer {
@@ -135,6 +137,7 @@ footer {
   padding-top: 1px;
   padding-left: 1.5%;
   margin-top: 10px;
+
 }
 
 footer p {
