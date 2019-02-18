@@ -27,9 +27,9 @@ h1{
 }
 
 h2{
-  color: #ffffff;
-  padding-top: 0;
+
   border: 0;
+  top:0;
 }
 
 p {
@@ -66,6 +66,11 @@ hr {
 .startcenter {
   text-align: center;
   border: 0;
+}
+
+.starttext {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .starttext h1 {
