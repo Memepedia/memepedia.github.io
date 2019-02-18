@@ -1,8 +1,8 @@
 var navbutt = document.getElementById("navbutton");
 
 function openNav() {
-  document.getElementById("mySidenav").style.width = "12vw";
-  document.getElementById("main").style.marginLeft = "12vw";
+  document.getElementById("mySidenav").style.width = "14vw";
+  document.getElementById("main").style.marginLeft = "14vw";
   navbutt
 }
 
