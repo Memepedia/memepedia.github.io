@@ -7,7 +7,7 @@ body {
 header {
   height: 55px;
   padding-left: 20px;
-  background-color: #0D0D0D;
+  background-color: #1f1f1f;
   overflow: hidden;
   padding-top: 8px;
 }
@@ -129,7 +129,7 @@ color: white;
 }
 
 footer {
-  background-color: #0D0D0D;
+  background-color: #1f1f1f;
   color: white;
   height: 100px;
   padding-top: 1px;
